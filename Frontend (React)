@@ -1,3 +1,6 @@
 cd /Users/marcogonzalez/CascadeProjects/FlexWork/frontend
-npm install
-npm start
+git init
+git add .
+git commit -m "Frontend FlexWork"
+git remote add origin <URL-de-tu-repo>
+git push -u origin main
